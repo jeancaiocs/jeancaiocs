@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Jean Caio!
 
-<!--
-**jeancaiocs/jeancaiocs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **Desenvolvedor Java Jr** focado em construir soluções completas — do backend ao frontend.  
+💻 Tecnologias que uso:
+- **Java**, **Spring Boot**, **PostgreSQL**
+- **HTML**, **CSS**, **JavaScript**
+- **Git / GitHub**, **IntelliJ IDEA**
 
-Here are some ideas to get you started:
+🚀 Projetos em destaque:
+- 🛒 [SmartMarket](https://github.com/jeancaio/smartmarket): sistema completo de gerenciamento de mercado com login, produtos e integração com PostgreSQL.
+- 🌐 [Portfólio Pessoal](https://github.com/jeancaio/portfolio): site multilíngue em HTML, CSS e JS com design responsivo e animações.
+- 💡 [Projeto 1](https://github.com/jeancaio/projeto-1): site simples em HTML e JavaScript.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 **Entre em contato comigo:**
+- 📧 E-mail: jeancaio.dev@gmail.com  
+- 📱 WhatsApp: [link direto](https://wa.me/5544998873044)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/jeancaio/)
