@@ -12,6 +12,6 @@
 - 💡 [Projeto 1](https://github.com/jeancaio/projeto-1): site simples em HTML e JavaScript.
 
 📫 **Entre em contato comigo:**
-- 📧 E-mail: jeancaio.dev@gmail.com  
+- 📧 E-mail: jeancaiocs@gmail.com  
 - 📱 WhatsApp: [link direto](https://wa.me/5544998873044)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/jeancaio/)
