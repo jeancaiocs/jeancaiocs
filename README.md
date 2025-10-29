@@ -8,7 +8,7 @@
 
 🚀 Projetos em destaque:
 - 🛒 [SmartMarket](https://github.com/jeancaio/smartmarket): sistema completo de gerenciamento de mercado com login, produtos e integração com PostgreSQL.
-- 🌐 [Portfólio Pessoal](https://github.com/jeancaio/portfolio): site multilíngue em HTML, CSS e JS com design responsivo e animações.
+- 🌐 [Portfólio Pessoal](https://jeancaiocs.github.io/portfolio/): site multilíngue em HTML, CSS e JS com design responsivo e animações.
 - 💡 [Projeto 1](https://github.com/jeancaio/projeto-1): site simples em HTML e JavaScript.
 
 📫 **Entre em contato comigo:**
