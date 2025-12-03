@@ -30,5 +30,5 @@ Sistema de controle de estoque e produtos integrado ao PostgreSQL.
 ## 📫 Contato  
 📧 E-mail: **jeancaiocs@gmail.com**  
 📱 WhatsApp: **(44) 99887-3044**  
-💼 LinkedIn: *linkedin.com/in/jeancaio/*  
+💼 LinkedIn: *[JeanCaio](https://www.linkedin.com/in/jeancaio/)* 
 
