@@ -23,7 +23,7 @@ Site responsivo, multilíngue e com animações para apresentar meus projetos.
 
 ### 🔹 SmartMarket  
 Sistema de controle de estoque e produtos integrado ao PostgreSQL.  
-👉 **Repositório:** *Em breve*
+👉 **Repositório:** *[RP](https://github.com/jeancaiocs/smartmarket)*
 
 ---
 
