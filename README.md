@@ -7,7 +7,7 @@ Sou **Desenvolvedor Java Jr**, criando aplicações completas — do **backend a
 ## 🚀 Tecnologias
 **Backend:** Java · Spring Boot · Spring Security · JPA/Hibernate · PostgreSQL  
 **Frontend:** HTML · CSS · JavaScript  
-**Ferramentas:** Git · GitHub · Postman · IntelliJ IDEA · VS Code  
+**Ferramentas:** Git · GitHub · Docker · IntelliJ IDEA · VS Code  
 
 ---
 
@@ -15,7 +15,7 @@ Sou **Desenvolvedor Java Jr**, criando aplicações completas — do **backend a
 
 ### 🔹 FinCas — Finance Control  
 Sistema de controle financeiro com autenticação, categorias e gerenciamento de receitas/despesas.  
-👉 **Acesse o projeto:** [FinCas](COLE-SEU-LINK-AQUI)
+👉 **Acesse o projeto:** [FinCas](https://fin-cas-frontend.vercel.app/I)
 
 ### 🔹 Portfólio Pessoal  
 Site responsivo, multilíngue e com animações para apresentar meus projetos.  
