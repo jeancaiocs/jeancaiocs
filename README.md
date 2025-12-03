@@ -1,46 +1,8 @@
-👋 Olá! Eu sou o Jean Caio
+👋 Olá, eu sou o Jean Caio! 
 
-🎯 Desenvolvedor Java Jr focado em criar aplicações completas — desde o backend robusto até interfaces funcionais no frontend.
-Apaixonado por resolver problemas reais e evoluir todos os dias na área de programação.
-
-🧠 Tecnologias & Ferramentas que utilizo
-💾 Backend
-
-Java
-
-Spring Boot
-
-Spring Security
-
-JPA / Hibernate
-
-PostgreSQL
-
-Maven
-
-🎨 Frontend
-
-HTML
-
-CSS
-
-JavaScript
-
-TypeScript
-
-React (começando)
-
-🛠 Ambiente & Ferramentas
-
-IntelliJ IDEA
-
-VS Code
-
-Git & GitHub
-
-Postman
-
-Docker (iniciante)
+🎯 Desenvolvedor Java Jr focado em construir soluções completas — do backend ao frontend. 
+💻 Tecnologias que uso: Java, Spring Boot, PostgreSQL HTML, CSS, JavaScript Git / GitHub, IntelliJ IDEA 
+🚀 Projetos em destaque:
 
 🚀 Projetos em destaque:
 - 🌐 [Portfólio Pessoal](https://jeancaiocs.github.io/portfolio/): site multilíngue em HTML, CSS e JS com design responsivo e animações.
