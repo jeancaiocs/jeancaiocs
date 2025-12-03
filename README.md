@@ -6,7 +6,7 @@ Sou **Desenvolvedor Java Jr**, criando aplicações completas — do **backend a
 
 ## 🚀 Tecnologias
 **Backend:** Java · Spring Boot · Spring Security · JPA/Hibernate · PostgreSQL  
-**Frontend:** HTML · CSS · TypeScript  
+**Frontend:** HTML · CSS · JavaScript  
 **Ferramentas:** Git · GitHub · Docker · IntelliJ IDEA · VS Code  
 
 ---
