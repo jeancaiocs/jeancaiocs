@@ -1,69 +1,34 @@
-<div align="center">
+# 👋 Olá! Eu sou o Jean Caio
 
-# 👋 Olá! Eu sou o **Jean Caio**
-🎯 Desenvolvedor **Java Jr** construindo aplicações completas — do **backend ao frontend**.
-
-</div>
+Sou **Desenvolvedor Java Jr**, criando aplicações completas — do **backend ao frontend** — com foco em código limpo, boas práticas e melhoria contínua.
 
 ---
 
-## 🚀 Tecnologias  
-<div align="center">
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![JPA](https://img.shields.io/badge/JPA%20/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
-
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)
-
-</div>
+## 🚀 Tecnologias
+**Backend:** Java · Spring Boot · Spring Security · JPA/Hibernate · PostgreSQL  
+**Frontend:** HTML · CSS · JavaScript  
+**Ferramentas:** Git · GitHub · Postman · IntelliJ IDEA · VS Code  
 
 ---
 
-## 📂 Projetos Principais
+## 📂 Projetos
 
-### **📊 FinCas — Finance Control**
-Sistema completo de controle financeiro  
-✔ Autenticação (JWT)  
-✔ Categorias  
-✔ Receitas e Despesas  
-✔ PostgreSQL + Spring Boot  
-✔ Front simples e funcional  
+### 🔹 FinCas — Finance Control  
+Sistema de controle financeiro com autenticação, categorias e gerenciamento de receitas/despesas.  
+👉 **Acesse o projeto:** [FinCas](COLE-SEU-LINK-AQUI)
 
----
+### 🔹 Portfólio Pessoal  
+Site responsivo, multilíngue e com animações para apresentar meus projetos.  
+👉 **Acesse o projeto:** [Portfólio](COLE-SEU-LINK-AQUI)
 
-### **🌐 Portfólio Pessoal**
-Site moderno, responsivo e multilíngue  
-✔ HTML, CSS, JavaScript  
-✔ Animações, partículas e design profissional  
-✔ Suporte a PT/EN  
-
----
-
-### **🛒 SmartMarket**
-Sistema de gerenciamento de mercado  
-✔ Login e cadastro  
-✔ Controle de produtos e estoque  
-✔ Integração completa com PostgreSQL  
+### 🔹 SmartMarket  
+Sistema de controle de estoque e produtos integrado ao PostgreSQL.  
+👉 **Repositório:** *em breve ou coloque aqui*
 
 ---
 
 ## 📫 Contato  
-📧 **E-mail:** jeancaiocs@gmail.com  
-📱 **WhatsApp:** (44) 99887-3044  
-💼 **LinkedIn:** *adicione seu link aqui*  
+📧 E-mail: **jeancaiocs@gmail.com**  
+📱 WhatsApp: **(44) 99887-3044**  
+💼 LinkedIn: *(adicione seu link aqui)*  
 
----
-
-<div align="center">
-
-Feito com 💙 e muito café ☕  
-Sempre aprendendo e construindo novos projetos! 🚀
-
-</div>
