@@ -19,7 +19,7 @@ Sistema de controle financeiro com autenticação, categorias e gerenciamento de
 
 ### 🔹 Portfólio Pessoal  
 Site responsivo, multilíngue e com animações para apresentar meus projetos.  
-👉 **Acesse o projeto:** [Portfólio](COLE-SEU-LINK-AQUI)
+👉 **Acesse o projeto:** [Portfólio](https://jeancaiocs.github.io/portfolio/)
 
 ### 🔹 SmartMarket  
 Sistema de controle de estoque e produtos integrado ao PostgreSQL.  
