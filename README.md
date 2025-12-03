@@ -23,7 +23,7 @@ Site responsivo, multilíngue e com animações para apresentar meus projetos.
 
 ### 🔹 SmartMarket  
 Sistema de controle de estoque e produtos integrado ao PostgreSQL.  
-👉 **Repositório:** *em breve ou coloque aqui*
+👉 **Repositório:** *Desenvolvendo*
 
 ---
 
