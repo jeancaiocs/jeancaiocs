@@ -43,7 +43,7 @@ Aplicando fundamentos técnicos na criação de interfaces modernas.
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=SEU-LINK)](SEU-LINK)
 [![Email](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:SEU-EMAIL)
 
-**Disponível para oportunidades júnior** | Umuarama, PR
+**Disponível para oportunidades júnior ou estágio** | Umuarama, PR
 
 ---
 
