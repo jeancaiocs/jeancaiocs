@@ -1,4 +1,4 @@
-# Hey! 👋 Eu sou o Jean
+# Olá! 👋 Eu sou o Jean
 
 Desenvolvedor Front-end focado em criar interfaces responsivas, consumindo APIs e resolvendo problemas reais com React.
 
