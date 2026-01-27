@@ -21,7 +21,7 @@ Desenvolvedor Front-end focado em criar interfaces responsivas, consumindo APIs 
 - Desenvolvo aplicações web responsivas
 - Crio componentes React reutilizáveis
 - Integro front-end com APIs REST
-- Escrevo código limpo e documentado
+- Versionamento de código com Git e GitHub
 
 ---
 
