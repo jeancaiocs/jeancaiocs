@@ -1,7 +1,6 @@
 # Hey! 👋 Eu sou o Jean
 
-**Desenvolvedor Front-end** focado em criar interfaces que funcionam.  
-Estudante de ADS. Buscando primeira oportunidade.
+Desenvolvedor Front-end focado em criar interfaces responsivas, consumindo APIs e resolvendo problemas reais com React.
 
 ---
 
