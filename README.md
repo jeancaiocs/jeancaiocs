@@ -40,8 +40,8 @@ Aplicando fundamentos técnicos na criação de interfaces modernas.
 
 ### 📬 Contato
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=SEU-LINK)](SEU-LINK)
-[![Email](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:SEU-EMAIL)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=SEU-LINK)]([SEU-LINK](https://www.linkedin.com/in/jeancaio/))
+[![Email](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:jeancaiocs@gmail.com)
 
 **Disponível para oportunidades júnior ou estágio** | Umuarama, PR
 
