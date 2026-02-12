@@ -1,6 +1,6 @@
 # Olá! 👋 Eu sou o Jean
 
-Desenvolvedor Front-end focado em criar interfaces responsivas, consumindo APIs e resolvendo problemas reais com React.
+Desenvolvedor Front-end focado em criar interfaces modernas e responsivas, integrando APIs REST e resolvendo problemas reais com React.
 
 ---
 
