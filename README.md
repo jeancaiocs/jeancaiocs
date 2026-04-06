@@ -58,14 +58,6 @@ Sistema fullstack de agendamento para clínicas de fisioterapia, com controle de
 
 ---
 
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jeancaiocs\&show_icons=true\&theme=dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeancaiocs\&layout=compact\&theme=dark)
-
----
-
 ## 📫 Contato
 
 * 💼 LinkedIn: https://www.linkedin.com/in/jeancaio/
