@@ -1,54 +1,83 @@
-# Olá! 👋 Eu sou o Jean
+# Olá! 👋 Eu sou o Jean Caio
 
-Desenvolvedor Front-end focado em React, criando aplicações web com integração de APIs REST, controle de estado e boas práticas de performance.
-
----
-
-### 🎯 Habilidades
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-
-**Estudando:** React Native, TypeScript
+💻 Desenvolvedor Fullstack com foco em React e Next.js, criando aplicações modernas, responsivas e integradas com banco de dados.
+🚀 Desenvolvendo soluções reais para clientes, com foco em performance e experiência do usuário.
 
 ---
 
-### 💼 O que faço
+## 🚀 Sobre mim
 
-- Desenvolvo aplicações web responsivas
-- Crio componentes React reutilizáveis
-- Integro front-end com APIs REST
-- Versionamento de código com Git e GitHub
-
----
-
-### 📌 Projetos
-
-Confira meus repositórios 👇 Cada um tem README completo e está deployado.
+* 🎓 Formado em Análise e Desenvolvimento de Sistemas
+* 📍 Umuarama - PR, Brasil
+* 💡 Focado em resolver problemas reais com tecnologia
+* 📚 Estudando: TypeScript e React Native
 
 ---
 
-### 🚀 Background
+## 🛠️ Tecnologias e Ferramentas
 
-Base em **lógica de programação** (Java) + Foco atual em **Front-end**.  
-Aplicando fundamentos técnicos na criação de interfaces modernas.
-
----
-
-### 📬 Contato
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=SEU-LINK)](https://www.linkedin.com/in/jeancaio/)
-[![Email](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:jeancaiocs@gmail.com)
-
-**Disponível para oportunidades júnior ou estágio** | Umuarama, PR
+* **Front-end:** React, Next.js, HTML, CSS, JavaScript
+* **Back-end:** API Routes (Next.js)
+* **Estilização:** Tailwind CSS
+* **Banco de dados:** PostgreSQL (Neon)
+* **Controle de versão:** Git e GitHub
 
 ---
 
-<div align="center">
-  
-![Profile Views](https://komarev.com/ghpvc/?username=SEU-USUARIO&color=blue&style=flat-square)
+## 🚀 Projeto em Destaque
 
-</div>
+### 🏥 FisioAgenda — Sistema de Agendamento
+
+👉 https://github.com/jeancaiocs/sistema-de-agendamento
+
+Sistema fullstack de agendamento para clínicas de fisioterapia, com controle de horários, gestão de profissionais e integração com banco de dados.
+
+📌 Aplicação em desenvolvimento para uso real em uma clínica de fisioterapia.
+
+---
+
+### 💡 O que esse projeto demonstra
+
+* Desenvolvimento de aplicação **fullstack com Next.js**
+* Criação de **API própria (backend integrado)**
+* Integração com **PostgreSQL (Neon)**
+* Implementação de **regras de negócio reais**
+* Estrutura escalável para aplicações reais
+* Foco em **UX (experiência do usuário)**
+
+---
+
+### ⚙️ Principais funcionalidades
+
+* 📅 Agendamento online em múltiplas etapas
+* 👨‍⚕️ Seleção de profissionais
+* ⏰ Controle de horários disponíveis
+* 🧠 Lógica para organização de agenda
+* 🔐 Estrutura para autenticação
+* 📊 Área administrativa (em evolução)
+
+---
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jeancaiocs\&show_icons=true\&theme=dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeancaiocs\&layout=compact\&theme=dark)
+
+---
+
+## 📫 Contato
+
+* 💼 LinkedIn: https://www.linkedin.com/in/jeancaio/
+* 📧 Email: [jeancaiocs@gmail.com](mailto:jeancaiocs@gmail.com)
+* 🌐 Portfólio: https://jeancaiocs.github.io/portfolio-frontend/
+
+---
+
+## 🎯 Objetivo
+
+Atuar como desenvolvedor júnior, contribuindo com projetos reais e evoluindo continuamente como desenvolvedor fullstack.
+
+---
+
+⭐ Obrigado por visitar meu perfil!
