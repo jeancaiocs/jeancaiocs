@@ -60,9 +60,10 @@ Sistema fullstack de agendamento para clínicas de fisioterapia, com controle de
 
 ## 📫 Contato
 
+* 🌐 Portfólio: https://www.jeandev.com.br/
 * 💼 LinkedIn: https://www.linkedin.com/in/jeancaio/
 * 📧 Email: [jeancaiocs@gmail.com](mailto:jeancaiocs@gmail.com)
-* 🌐 Portfólio: https://www.jeandev.com.br/
+
 
 ---
 
