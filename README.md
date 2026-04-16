@@ -1,4 +1,4 @@
-# Olá! 👋 Eu sou o Jean Caio
+# Olá! Eu sou o Jean Caio
 
 💻 Desenvolvedor Fullstack com foco em React e Next.js, criando aplicações modernas, responsivas e integradas com banco de dados.
 🚀 Desenvolvendo soluções reais para clientes, com foco em performance e experiência do usuário.
