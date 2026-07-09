@@ -20,7 +20,7 @@
 * ☕ Java
 * 🧩 Programação Orientada a Objetos
 * 🗄️ SQL
-* 🐬 MySQL
+* 🐬 PostgreSQL
 * 🌱 Git e GitHub
 * 🚀 Spring Boot (próximo passo)
 
@@ -36,7 +36,7 @@
 ### Banco de Dados
 
 * SQL
-* MySQL
+* PostgreSQL
 
 ### Ferramentas
 
