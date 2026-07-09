@@ -1,8 +1,8 @@
 # Olá! Eu sou o Jean Caio 👋
 
-💻 Desenvolvedor em formação com foco em **Java** e **Programação Orientada a Objetos (POO)**.
+💻 Desenvolvedor Java com foco em desenvolvimento backend.
 
-🎯 Buscando minha primeira oportunidade como **Desenvolvedor Java Júnior** ou **Estagiário em Desenvolvimento Java**.
+🎯 Construindo projetos práticos em Java e me preparando para atuar como Desenvolvedor Java Júnior.
 
 ---
 
@@ -10,28 +10,18 @@
 
 * 🎓 Formado em Análise e Desenvolvimento de Sistemas
 * 📍 Umuarama - PR, Brasil
-* 📚 Estudando Java, POO, Git, SQL e Spring Boot
-* 💡 Gosto de transformar teoria em projetos práticos e evoluir continuamente
+* ☕ Estudando Java, Programação Orientada a Objetos, SQL, PostgreSQL e Spring Boot
+* 💡 Acredito que a melhor forma de aprender é desenvolvendo projetos reais e evoluindo continuamente.
 
 ---
 
-## 📖 Atualmente estudando
-
-* ☕ Java
-* 🧩 Programação Orientada a Objetos
-* 🗄️ SQL
-* 🐬 PostgreSQL
-* 🌱 Git e GitHub
-* 🚀 Spring Boot (próximo passo)
-
----
-
-## 🛠️ Tecnologias
+## 📚 Tecnologias em estudo
 
 ### Back-end
 
-* Java (em aprendizado)
+* Java
 * Programação Orientada a Objetos
+* Spring Boot
 
 ### Banco de Dados
 
@@ -40,39 +30,32 @@
 
 ### Ferramentas
 
-* IntelliJ IDEA
 * Git
 * GitHub
+* IntelliJ IDEA
 
 ---
 
 ## 📂 Projetos
 
-Estou construindo meu portfólio Java e adicionando novos projetos conforme avanço nos estudos.
+Este repositório acompanha minha evolução no ecossistema Java. Ao longo dos estudos, estou desenvolvendo projetos para aplicar os conceitos aprendidos na prática.
 
-Projetos planejados:
+Projetos em desenvolvimento:
 
-* ✅ Sistema Bancário
-* ✅ Sistema de Biblioteca
-* ✅ Sistema de Estoque
-* ✅ Cadastro de Funcionários
-* ✅ API REST com Spring Boot
+* LifeOS
 
-Enquanto isso, mantenho disponíveis alguns projetos desenvolvidos anteriormente utilizando tecnologias web.
+Também mantenho disponíveis alguns projetos desenvolvidos anteriormente com tecnologias web, que fazem parte da minha trajetória como desenvolvedor.
 
 ---
 
 ## 🎯 Objetivo
 
-Conquistar minha primeira oportunidade como Desenvolvedor Java Júnior, contribuindo com projetos reais e evoluindo continuamente em desenvolvimento backend com Java.
+Construir uma base sólida em Java e desenvolvimento backend para conquistar minha primeira oportunidade como Desenvolvedor Java Júnior.
 
 ---
 
 ## 📫 Contato
 
-* 💼 LinkedIn: https://www.linkedin.com/in/jeancaio/
-* 📧 E-mail: [jeancaiocs@gmail.com](mailto:jeancaiocs@gmail.com)
+💼 LinkedIn: linkedin.com/in/jeancaio
 
----
-
-⭐ Obrigado por visitar meu perfil!
+📧 E-mail: [jeancaiocs@gmail.com](mailto:jeancaiocs@gmail.com)
