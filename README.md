@@ -1,61 +1,24 @@
-# Olá! Eu sou o Jean Caio 👋
+# Jean Caio 👋
 
-💻 Desenvolvedor Java com foco em desenvolvimento backend.
+💻 Desenvolvedor Java
 
-🎯 Construindo projetos práticos em Java e me preparando para atuar como Desenvolvedor Java Júnior.
+🎓 Análise e Desenvolvimento de Sistemas
 
----
+📍 Umuarama - PR
 
-## 🚀 Sobre mim
-
-* 🎓 Formado em Análise e Desenvolvimento de Sistemas
-* 📍 Umuarama - PR, Brasil
-* ☕ Estudando Java, Programação Orientada a Objetos, SQL, PostgreSQL e Spring Boot
-* 💡 Acredito que a melhor forma de aprender é desenvolvendo projetos reais e evoluindo continuamente.
-
----
-
-## 📚 Tecnologias em estudo
-
-### Back-end
+### Tecnologias
 
 * Java
-* Programação Orientada a Objetos
 * Spring Boot
-
-### Banco de Dados
-
-* SQL
 * PostgreSQL
-
-### Ferramentas
-
+* SQL
 * Git
 * GitHub
-* IntelliJ IDEA
 
----
+Estou estudando desenvolvimento backend e utilizando o GitHub para registrar minha evolução e compartilhar os projetos que desenvolvo.
 
-## 📂 Projetos
+### Contato
 
-Este repositório acompanha minha evolução no ecossistema Java. Ao longo dos estudos, estou desenvolvendo projetos para aplicar os conceitos aprendidos na prática.
+LinkedIn: linkedin.com/in/jeancaio
 
-Projetos em desenvolvimento:
-
-* LifeOS
-
-Também mantenho disponíveis alguns projetos desenvolvidos anteriormente com tecnologias web, que fazem parte da minha trajetória como desenvolvedor.
-
----
-
-## 🎯 Objetivo
-
-Construir uma base sólida em Java e desenvolvimento backend para conquistar minha primeira oportunidade como Desenvolvedor Java Júnior.
-
----
-
-## 📫 Contato
-
-💼 LinkedIn: linkedin.com/in/jeancaio
-
-📧 E-mail: [jeancaiocs@gmail.com](mailto:jeancaiocs@gmail.com)
+E-mail: [jeancaiocs@gmail.com](mailto:jeancaiocs@gmail.com)
